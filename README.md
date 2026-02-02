@@ -1,3 +1,5 @@
+# APPLICATION DEVELOPED IN A PRIVATE REPO - I CREATED THIS PUBLIC REPO TO PROVIDE INFOS ABOUT THE PROJECT AND THE LINK TO ACCESS THE APPLICATION
+
 # Gabarito (Carnaval BH) - Schedule Management Platform
 
 A full-stack web application for managing and sharing custom carnival event schedules (gabaritos) in Belo Horizonte. Users can discover street carnival blocos, create personalized schedules, and share them with friends. Made by 2 developers with the help of an UI/UX designer.
@@ -44,3 +46,4 @@ This platform allows carnival enthusiasts to:
 # Where to access
 
 - The app was launched on January 30th and it's been upgraded continuously by CD and can be accessed at https://seugabarito.com/
+- The application currently has ~70 active users
